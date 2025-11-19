@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-11-19">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="ANAKIN" label="ANAKIN" />
+      <node id="BAIL ORGANA" label="BAIL ORGANA" />
+      <node id="C-3PO" label="C-3PO" />
+      <node id="CAPTAIN TYPHO" label="CAPTAIN TYPHO" />
+      <node id="CLONE COMMANDER CODY" label="CLONE COMMANDER CODY" />
+      <node id="COUNT DOOKU" label="COUNT DOOKU" />
+      <node id="EMPEROR" label="EMPEROR" />
+      <node id="GENERAL GRIEVOUS" label="GENERAL GRIEVOUS" />
+      <node id="JAR JAR" label="JAR JAR" />
+      <node id="MACE WINDU" label="MACE WINDU" />
+      <node id="OBI-WAN" label="OBI-WAN" />
+      <node id="ODD BALL" label="ODD BALL" />
+      <node id="PADME" label="PADME" />
+      <node id="R2-D2" label="R2-D2" />
+      <node id="YODA" label="YODA" />
+      <node id="CAPTAIN ANTILLES" label="CAPTAIN ANTILLES" />
+      <node id="FANG ZAR" label="FANG ZAR" />
+      <node id="GIDDEAN DANU" label="GIDDEAN DANU" />
+      <node id="MON MOTHMA" label="MON MOTHMA" />
+      <node id="QUI-GON" label="QUI-GON" />
+      <node id="CLONE COMMANDER GREE" label="CLONE COMMANDER GREE" />
+      <node id="DARTH VADER" label="DARTH VADER" />
+      <node id="NUTE GUNRAY" label="NUTE GUNRAY" />
+      <node id="TION MEDON" label="TION MEDON" />
+    </nodes>
+    <edges>
+      <edge source="ANAKIN" target="BAIL ORGANA" id="0" weight="2.0" />
+      <edge source="ANAKIN" target="C-3PO" id="1" weight="4.0" />
+      <edge source="ANAKIN" target="CAPTAIN TYPHO" id="2" weight="1.0" />
+      <edge source="ANAKIN" target="CLONE COMMANDER CODY" id="3" weight="1.0" />
+      <edge source="ANAKIN" target="COUNT DOOKU" id="4" weight="1.0" />
+      <edge source="ANAKIN" target="EMPEROR" id="5" weight="14.0" />
+      <edge source="ANAKIN" target="GENERAL GRIEVOUS" id="6" weight="1.0" />
+      <edge source="ANAKIN" target="JAR JAR" id="7" weight="1.0" />
+      <edge source="ANAKIN" target="MACE WINDU" id="8" weight="5.0" />
+      <edge source="ANAKIN" target="OBI-WAN" id="9" weight="28.0" />
+      <edge source="ANAKIN" target="ODD BALL" id="10" weight="2.0" />
+      <edge source="ANAKIN" target="PADME" id="11" weight="9.0" />
+      <edge source="ANAKIN" target="R2-D2" id="12" weight="9.0" />
+      <edge source="ANAKIN" target="YODA" id="13" weight="5.0" />
+      <edge source="BAIL ORGANA" target="C-3PO" id="14" weight="3.0" />
+      <edge source="BAIL ORGANA" target="CAPTAIN ANTILLES" id="15" weight="2.0" />
+      <edge source="BAIL ORGANA" target="EMPEROR" id="16" weight="3.0" />
+      <edge source="BAIL ORGANA" target="FANG ZAR" id="17" weight="2.0" />
+      <edge source="BAIL ORGANA" target="GIDDEAN DANU" id="18" weight="1.0" />
+      <edge source="BAIL ORGANA" target="MON MOTHMA" id="19" weight="2.0" />
+      <edge source="BAIL ORGANA" target="OBI-WAN" id="20" weight="7.0" />
+      <edge source="BAIL ORGANA" target="PADME" id="21" weight="5.0" />
+      <edge source="BAIL ORGANA" target="QUI-GON" id="22" weight="1.0" />
+      <edge source="BAIL ORGANA" target="R2-D2" id="23" weight="4.0" />
+      <edge source="BAIL ORGANA" target="YODA" id="24" weight="6.0" />
+      <edge source="C-3PO" target="CAPTAIN ANTILLES" id="25" weight="1.0" />
+      <edge source="C-3PO" target="CAPTAIN TYPHO" id="26" weight="2.0" />
+      <edge source="C-3PO" target="EMPEROR" id="27" weight="2.0" />
+      <edge source="C-3PO" target="OBI-WAN" id="28" weight="3.0" />
+      <edge source="C-3PO" target="PADME" id="29" weight="5.0" />
+      <edge source="C-3PO" target="R2-D2" id="30" weight="5.0" />
+      <edge source="C-3PO" target="YODA" id="31" weight="1.0" />
+      <edge source="CAPTAIN TYPHO" target="PADME" id="32" weight="2.0" />
+      <edge source="CLONE COMMANDER CODY" target="MACE WINDU" id="33" weight="1.0" />
+      <edge source="CLONE COMMANDER CODY" target="OBI-WAN" id="34" weight="2.0" />
+      <edge source="CLONE COMMANDER CODY" target="YODA" id="35" weight="1.0" />
+      <edge source="COUNT DOOKU" target="EMPEROR" id="36" weight="1.0" />
+      <edge source="COUNT DOOKU" target="OBI-WAN" id="37" weight="1.0" />
+      <edge source="EMPEROR" target="DARTH VADER" id="38" weight="1.0" />
+      <edge source="EMPEROR" target="JAR JAR" id="39" weight="1.0" />
+      <edge source="EMPEROR" target="MACE WINDU" id="40" weight="1.0" />
+      <edge source="EMPEROR" target="NUTE GUNRAY" id="41" weight="1.0" />
+      <edge source="EMPEROR" target="OBI-WAN" id="42" weight="4.0" />
+      <edge source="EMPEROR" target="PADME" id="43" weight="4.0" />
+      <edge source="EMPEROR" target="R2-D2" id="44" weight="2.0" />
+      <edge source="GENERAL GRIEVOUS" target="NUTE GUNRAY" id="45" weight="1.0" />
+      <edge source="GENERAL GRIEVOUS" target="OBI-WAN" id="46" weight="2.0" />
+      <edge source="MACE WINDU" target="OBI-WAN" id="47" weight="3.0" />
+      <edge source="MACE WINDU" target="YODA" id="48" weight="4.0" />
+      <edge source="OBI-WAN" target="ODD BALL" id="49" weight="2.0" />
+      <edge source="OBI-WAN" target="PADME" id="50" weight="6.0" />
+      <edge source="OBI-WAN" target="R2-D2" id="51" weight="12.0" />
+      <edge source="OBI-WAN" target="TION MEDON" id="52" weight="1.0" />
+      <edge source="OBI-WAN" target="YODA" id="53" weight="11.0" />
+      <edge source="PADME" target="FANG ZAR" id="54" weight="2.0" />
+      <edge source="PADME" target="GIDDEAN DANU" id="55" weight="1.0" />
+      <edge source="PADME" target="MON MOTHMA" id="56" weight="2.0" />
+      <edge source="PADME" target="R2-D2" id="57" weight="4.0" />
+      <edge source="R2-D2" target="CAPTAIN ANTILLES" id="58" weight="1.0" />
+      <edge source="R2-D2" target="YODA" id="59" weight="1.0" />
+      <edge source="YODA" target="CLONE COMMANDER GREE" id="60" weight="1.0" />
+      <edge source="YODA" target="QUI-GON" id="61" weight="1.0" />
+      <edge source="FANG ZAR" target="GIDDEAN DANU" id="62" weight="1.0" />
+      <edge source="FANG ZAR" target="MON MOTHMA" id="63" weight="2.0" />
+      <edge source="GIDDEAN DANU" target="MON MOTHMA" id="64" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

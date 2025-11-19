@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-11-18">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="BOBA FETT" label="BOBA FETT" />
+      <node id="C-3PO" label="C-3PO" />
+      <node id="CHEWBACCA" label="CHEWBACCA" />
+      <node id="DARTH VADER" label="DARTH VADER" />
+      <node id="HAN" label="HAN" />
+      <node id="LANDO" label="LANDO" />
+      <node id="LEIA" label="LEIA" />
+      <node id="PIETT" label="PIETT" />
+      <node id="DERLIN" label="DERLIN" />
+      <node id="LUKE" label="LUKE" />
+      <node id="R2-D2" label="R2-D2" />
+      <node id="RIEEKAN" label="RIEEKAN" />
+      <node id="DACK" label="DACK" />
+      <node id="EMPEROR" label="EMPEROR" />
+      <node id="NEEDA" label="NEEDA" />
+      <node id="OZZEL" label="OZZEL" />
+      <node id="OBI-WAN" label="OBI-WAN" />
+      <node id="ZEV" label="ZEV" />
+      <node id="JANSON" label="JANSON" />
+      <node id="WEDGE" label="WEDGE" />
+      <node id="YODA" label="YODA" />
+    </nodes>
+    <edges>
+      <edge source="BOBA FETT" target="C-3PO" id="0" weight="1.0" />
+      <edge source="BOBA FETT" target="CHEWBACCA" id="1" weight="1.0" />
+      <edge source="BOBA FETT" target="DARTH VADER" id="2" weight="3.0" />
+      <edge source="BOBA FETT" target="HAN" id="3" weight="1.0" />
+      <edge source="BOBA FETT" target="LANDO" id="4" weight="2.0" />
+      <edge source="BOBA FETT" target="LEIA" id="5" weight="1.0" />
+      <edge source="BOBA FETT" target="PIETT" id="6" weight="1.0" />
+      <edge source="C-3PO" target="CHEWBACCA" id="7" weight="21.0" />
+      <edge source="C-3PO" target="DARTH VADER" id="8" weight="1.0" />
+      <edge source="C-3PO" target="DERLIN" id="9" weight="1.0" />
+      <edge source="C-3PO" target="HAN" id="10" weight="27.0" />
+      <edge source="C-3PO" target="LANDO" id="11" weight="7.0" />
+      <edge source="C-3PO" target="LEIA" id="12" weight="23.0" />
+      <edge source="C-3PO" target="LUKE" id="13" weight="1.0" />
+      <edge source="C-3PO" target="R2-D2" id="14" weight="10.0" />
+      <edge source="C-3PO" target="RIEEKAN" id="15" weight="1.0" />
+      <edge source="CHEWBACCA" target="DARTH VADER" id="16" weight="1.0" />
+      <edge source="CHEWBACCA" target="HAN" id="17" weight="19.0" />
+      <edge source="CHEWBACCA" target="LANDO" id="18" weight="9.0" />
+      <edge source="CHEWBACCA" target="LEIA" id="19" weight="19.0" />
+      <edge source="CHEWBACCA" target="LUKE" id="20" weight="5.0" />
+      <edge source="CHEWBACCA" target="R2-D2" id="21" weight="5.0" />
+      <edge source="CHEWBACCA" target="RIEEKAN" id="22" weight="1.0" />
+      <edge source="DARTH VADER" target="EMPEROR" id="23" weight="1.0" />
+      <edge source="DARTH VADER" target="HAN" id="24" weight="2.0" />
+      <edge source="DARTH VADER" target="LANDO" id="25" weight="4.0" />
+      <edge source="DARTH VADER" target="LEIA" id="26" weight="1.0" />
+      <edge source="DARTH VADER" target="LUKE" id="27" weight="2.0" />
+      <edge source="DARTH VADER" target="NEEDA" id="28" weight="1.0" />
+      <edge source="DARTH VADER" target="OZZEL" id="29" weight="2.0" />
+      <edge source="DARTH VADER" target="PIETT" id="30" weight="7.0" />
+      <edge source="HAN" target="LANDO" id="31" weight="7.0" />
+      <edge source="HAN" target="LEIA" id="32" weight="33.0" />
+      <edge source="HAN" target="LUKE" id="33" weight="4.0" />
+      <edge source="HAN" target="OBI-WAN" id="34" weight="1.0" />
+      <edge source="HAN" target="R2-D2" id="35" weight="4.0" />
+      <edge source="HAN" target="RIEEKAN" id="36" weight="3.0" />
+      <edge source="HAN" target="ZEV" id="37" weight="1.0" />
+      <edge source="LANDO" target="LEIA" id="38" weight="10.0" />
+      <edge source="LANDO" target="LUKE" id="39" weight="2.0" />
+      <edge source="LANDO" target="R2-D2" id="40" weight="1.0" />
+      <edge source="LEIA" target="DERLIN" id="41" weight="1.0" />
+      <edge source="LEIA" target="LUKE" id="42" weight="1.0" />
+      <edge source="LEIA" target="R2-D2" id="43" weight="5.0" />
+      <edge source="LEIA" target="RIEEKAN" id="44" weight="4.0" />
+      <edge source="PIETT" target="NEEDA" id="45" weight="1.0" />
+      <edge source="PIETT" target="OZZEL" id="46" weight="2.0" />
+      <edge source="LUKE" target="DACK" id="47" weight="3.0" />
+      <edge source="LUKE" target="OBI-WAN" id="48" weight="2.0" />
+      <edge source="LUKE" target="R2-D2" id="49" weight="7.0" />
+      <edge source="LUKE" target="WEDGE" id="50" weight="2.0" />
+      <edge source="LUKE" target="YODA" id="51" weight="5.0" />
+      <edge source="LUKE" target="ZEV" id="52" weight="1.0" />
+      <edge source="OBI-WAN" target="YODA" id="53" weight="1.0" />
+      <edge source="JANSON" target="WEDGE" id="54" weight="2.0" />
+    </edges>
+  </graph>
+</gexf>

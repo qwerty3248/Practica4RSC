@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-11-19">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="ANAKIN" label="ANAKIN" />
+      <node id="BOSS NASS" label="BOSS NASS" />
+      <node id="BRAVO THREE" label="BRAVO THREE" />
+      <node id="BRAVO TWO" label="BRAVO TWO" />
+      <node id="C-3PO" label="C-3PO" />
+      <node id="CAPTAIN PANAKA" label="CAPTAIN PANAKA" />
+      <node id="GREEDO" label="GREEDO" />
+      <node id="JABBA" label="JABBA" />
+      <node id="JAR JAR" label="JAR JAR" />
+      <node id="JIRA" label="JIRA" />
+      <node id="KI-ADI-MUNDI" label="KI-ADI-MUNDI" />
+      <node id="KITSTER" label="KITSTER" />
+      <node id="MACE WINDU" label="MACE WINDU" />
+      <node id="OBI-WAN" label="OBI-WAN" />
+      <node id="PADME" label="PADME" />
+      <node id="QUI-GON" label="QUI-GON" />
+      <node id="R2-D2" label="R2-D2" />
+      <node id="RABE" label="RABE" />
+      <node id="RIC OLIE" label="RIC OLIE" />
+      <node id="SEBULBA" label="SEBULBA" />
+      <node id="SHMI" label="SHMI" />
+      <node id="WALD" label="WALD" />
+      <node id="WATTO" label="WATTO" />
+      <node id="YODA" label="YODA" />
+      <node id="BAIL ORGANA" label="BAIL ORGANA" />
+      <node id="EMPEROR" label="EMPEROR" />
+      <node id="VALORUM" label="VALORUM" />
+      <node id="SIO BIBBLE" label="SIO BIBBLE" />
+      <node id="DARTH MAUL" label="DARTH MAUL" />
+      <node id="GENERAL CEEL" label="GENERAL CEEL" />
+      <node id="NUTE GUNRAY" label="NUTE GUNRAY" />
+      <node id="RUNE" label="RUNE" />
+      <node id="DOFINE" label="DOFINE" />
+      <node id="TC-14" label="TC-14" />
+      <node id="TEY HOW" label="TEY HOW" />
+      <node id="FODE/BEED" label="FODE/BEED" />
+      <node id="TARPALS" label="TARPALS" />
+      <node id="PK-4" label="PK-4" />
+    </nodes>
+    <edges>
+      <edge source="ANAKIN" target="BOSS NASS" id="0" weight="1.0" />
+      <edge source="ANAKIN" target="BRAVO THREE" id="1" weight="1.0" />
+      <edge source="ANAKIN" target="BRAVO TWO" id="2" weight="2.0" />
+      <edge source="ANAKIN" target="C-3PO" id="3" weight="3.0" />
+      <edge source="ANAKIN" target="CAPTAIN PANAKA" id="4" weight="2.0" />
+      <edge source="ANAKIN" target="GREEDO" id="5" weight="1.0" />
+      <edge source="ANAKIN" target="JABBA" id="6" weight="1.0" />
+      <edge source="ANAKIN" target="JAR JAR" id="7" weight="8.0" />
+      <edge source="ANAKIN" target="JIRA" id="8" weight="2.0" />
+      <edge source="ANAKIN" target="KI-ADI-MUNDI" id="9" weight="2.0" />
+      <edge source="ANAKIN" target="KITSTER" id="10" weight="3.0" />
+      <edge source="ANAKIN" target="MACE WINDU" id="11" weight="3.0" />
+      <edge source="ANAKIN" target="OBI-WAN" id="12" weight="5.0" />
+      <edge source="ANAKIN" target="PADME" id="13" weight="16.0" />
+      <edge source="ANAKIN" target="QUI-GON" id="14" weight="22.0" />
+      <edge source="ANAKIN" target="R2-D2" id="15" weight="16.0" />
+      <edge source="ANAKIN" target="RABE" id="16" weight="1.0" />
+      <edge source="ANAKIN" target="RIC OLIE" id="17" weight="4.0" />
+      <edge source="ANAKIN" target="SEBULBA" id="18" weight="2.0" />
+      <edge source="ANAKIN" target="SHMI" id="19" weight="7.0" />
+      <edge source="ANAKIN" target="WALD" id="20" weight="2.0" />
+      <edge source="ANAKIN" target="WATTO" id="21" weight="4.0" />
+      <edge source="ANAKIN" target="YODA" id="22" weight="3.0" />
+      <edge source="BOSS NASS" target="CAPTAIN PANAKA" id="23" weight="1.0" />
+      <edge source="BOSS NASS" target="JAR JAR" id="24" weight="2.0" />
+      <edge source="BOSS NASS" target="OBI-WAN" id="25" weight="2.0" />
+      <edge source="BOSS NASS" target="PADME" id="26" weight="2.0" />
+      <edge source="BOSS NASS" target="QUI-GON" id="27" weight="2.0" />
+      <edge source="BRAVO THREE" target="BRAVO TWO" id="28" weight="2.0" />
+      <edge source="BRAVO THREE" target="RIC OLIE" id="29" weight="2.0" />
+      <edge source="BRAVO TWO" target="RIC OLIE" id="30" weight="4.0" />
+      <edge source="C-3PO" target="KITSTER" id="31" weight="1.0" />
+      <edge source="C-3PO" target="PADME" id="32" weight="2.0" />
+      <edge source="C-3PO" target="QUI-GON" id="33" weight="1.0" />
+      <edge source="C-3PO" target="R2-D2" id="34" weight="2.0" />
+      <edge source="C-3PO" target="WATTO" id="35" weight="1.0" />
+      <edge source="CAPTAIN PANAKA" target="EMPEROR" id="36" weight="3.0" />
+      <edge source="CAPTAIN PANAKA" target="JAR JAR" id="37" weight="7.0" />
+      <edge source="CAPTAIN PANAKA" target="OBI-WAN" id="38" weight="7.0" />
+      <edge source="CAPTAIN PANAKA" target="PADME" id="39" weight="7.0" />
+      <edge source="CAPTAIN PANAKA" target="QUI-GON" id="40" weight="9.0" />
+      <edge source="CAPTAIN PANAKA" target="RIC OLIE" id="41" weight="2.0" />
+      <edge source="CAPTAIN PANAKA" target="SIO BIBBLE" id="42" weight="3.0" />
+      <edge source="GREEDO" target="QUI-GON" id="43" weight="1.0" />
+      <edge source="GREEDO" target="WALD" id="44" weight="1.0" />
+      <edge source="JABBA" target="FODE/BEED" id="45" weight="1.0" />
+      <edge source="JABBA" target="JAR JAR" id="46" weight="1.0" />
+      <edge source="JABBA" target="PADME" id="47" weight="1.0" />
+      <edge source="JABBA" target="QUI-GON" id="48" weight="1.0" />
+      <edge source="JABBA" target="SEBULBA" id="49" weight="1.0" />
+      <edge source="JABBA" target="SHMI" id="50" weight="1.0" />
+      <edge source="JAR JAR" target="EMPEROR" id="51" weight="2.0" />
+      <edge source="JAR JAR" target="FODE/BEED" id="52" weight="2.0" />
+      <edge source="JAR JAR" target="GENERAL CEEL" id="53" weight="1.0" />
+      <edge source="JAR JAR" target="KITSTER" id="54" weight="1.0" />
+      <edge source="JAR JAR" target="OBI-WAN" id="55" weight="12.0" />
+      <edge source="JAR JAR" target="PADME" id="56" weight="9.0" />
+      <edge source="JAR JAR" target="QUI-GON" id="57" weight="22.0" />
+      <edge source="JAR JAR" target="RIC OLIE" id="58" weight="1.0" />
+      <edge source="JAR JAR" target="SEBULBA" id="59" weight="2.0" />
+      <edge source="JAR JAR" target="SHMI" id="60" weight="3.0" />
+      <edge source="JAR JAR" target="SIO BIBBLE" id="61" weight="1.0" />
+      <edge source="JAR JAR" target="TARPALS" id="62" weight="2.0" />
+      <edge source="JAR JAR" target="VALORUM" id="63" weight="1.0" />
+      <edge source="JAR JAR" target="WALD" id="64" weight="1.0" />
+      <edge source="JIRA" target="PADME" id="65" weight="1.0" />
+      <edge source="JIRA" target="QUI-GON" id="66" weight="2.0" />
+      <edge source="KI-ADI-MUNDI" target="MACE WINDU" id="67" weight="3.0" />
+      <edge source="KI-ADI-MUNDI" target="OBI-WAN" id="68" weight="1.0" />
+      <edge source="KI-ADI-MUNDI" target="QUI-GON" id="69" weight="2.0" />
+      <edge source="KI-ADI-MUNDI" target="RABE" id="70" weight="1.0" />
+      <edge source="KI-ADI-MUNDI" target="YODA" id="71" weight="3.0" />
+      <edge source="KITSTER" target="PADME" id="72" weight="1.0" />
+      <edge source="KITSTER" target="QUI-GON" id="73" weight="2.0" />
+      <edge source="KITSTER" target="R2-D2" id="74" weight="2.0" />
+      <edge source="KITSTER" target="SHMI" id="75" weight="1.0" />
+      <edge source="KITSTER" target="WALD" id="76" weight="1.0" />
+      <edge source="KITSTER" target="WATTO" id="77" weight="1.0" />
+      <edge source="MACE WINDU" target="OBI-WAN" id="78" weight="2.0" />
+      <edge source="MACE WINDU" target="QUI-GON" id="79" weight="2.0" />
+      <edge source="MACE WINDU" target="RABE" id="80" weight="1.0" />
+      <edge source="MACE WINDU" target="YODA" id="81" weight="4.0" />
+      <edge source="OBI-WAN" target="PADME" id="82" weight="1.0" />
+      <edge source="OBI-WAN" target="QUI-GON" id="83" weight="26.0" />
+      <edge source="OBI-WAN" target="RIC OLIE" id="84" weight="3.0" />
+      <edge source="OBI-WAN" target="SHMI" id="85" weight="1.0" />
+      <edge source="OBI-WAN" target="SIO BIBBLE" id="86" weight="1.0" />
+      <edge source="OBI-WAN" target="TC-14" id="87" weight="1.0" />
+      <edge source="OBI-WAN" target="YODA" id="88" weight="3.0" />
+      <edge source="PADME" target="EMPEROR" id="89" weight="1.0" />
+      <edge source="PADME" target="FODE/BEED" id="90" weight="1.0" />
+      <edge source="PADME" target="NUTE GUNRAY" id="91" weight="1.0" />
+      <edge source="PADME" target="QUI-GON" id="92" weight="16.0" />
+      <edge source="PADME" target="R2-D2" id="93" weight="11.0" />
+      <edge source="PADME" target="SEBULBA" id="94" weight="2.0" />
+      <edge source="PADME" target="SHMI" id="95" weight="5.0" />
+      <edge source="PADME" target="SIO BIBBLE" id="96" weight="1.0" />
+      <edge source="PADME" target="WATTO" id="97" weight="3.0" />
+      <edge source="QUI-GON" target="EMPEROR" id="98" weight="1.0" />
+      <edge source="QUI-GON" target="NUTE GUNRAY" id="99" weight="1.0" />
+      <edge source="QUI-GON" target="R2-D2" id="100" weight="14.0" />
+      <edge source="QUI-GON" target="RABE" id="101" weight="1.0" />
+      <edge source="QUI-GON" target="RIC OLIE" id="102" weight="2.0" />
+      <edge source="QUI-GON" target="SEBULBA" id="103" weight="2.0" />
+      <edge source="QUI-GON" target="SHMI" id="104" weight="8.0" />
+      <edge source="QUI-GON" target="SIO BIBBLE" id="105" weight="2.0" />
+      <edge source="QUI-GON" target="TC-14" id="106" weight="1.0" />
+      <edge source="QUI-GON" target="VALORUM" id="107" weight="1.0" />
+      <edge source="QUI-GON" target="WALD" id="108" weight="2.0" />
+      <edge source="QUI-GON" target="WATTO" id="109" weight="6.0" />
+      <edge source="QUI-GON" target="YODA" id="110" weight="2.0" />
+      <edge source="R2-D2" target="WATTO" id="111" weight="3.0" />
+      <edge source="RABE" target="YODA" id="112" weight="1.0" />
+      <edge source="SEBULBA" target="SHMI" id="113" weight="1.0" />
+      <edge source="BAIL ORGANA" target="EMPEROR" id="114" weight="1.0" />
+      <edge source="BAIL ORGANA" target="VALORUM" id="115" weight="1.0" />
+      <edge source="EMPEROR" target="DARTH MAUL" id="116" weight="3.0" />
+      <edge source="EMPEROR" target="GENERAL CEEL" id="117" weight="1.0" />
+      <edge source="EMPEROR" target="NUTE GUNRAY" id="118" weight="5.0" />
+      <edge source="EMPEROR" target="RUNE" id="119" weight="3.0" />
+      <edge source="EMPEROR" target="SIO BIBBLE" id="120" weight="1.0" />
+      <edge source="EMPEROR" target="VALORUM" id="121" weight="2.0" />
+      <edge source="SIO BIBBLE" target="NUTE GUNRAY" id="122" weight="2.0" />
+      <edge source="DARTH MAUL" target="GENERAL CEEL" id="123" weight="1.0" />
+      <edge source="DARTH MAUL" target="NUTE GUNRAY" id="124" weight="3.0" />
+      <edge source="DARTH MAUL" target="RUNE" id="125" weight="1.0" />
+      <edge source="GENERAL CEEL" target="NUTE GUNRAY" id="126" weight="1.0" />
+      <edge source="NUTE GUNRAY" target="DOFINE" id="127" weight="1.0" />
+      <edge source="NUTE GUNRAY" target="RUNE" id="128" weight="8.0" />
+      <edge source="NUTE GUNRAY" target="TC-14" id="129" weight="1.0" />
+      <edge source="NUTE GUNRAY" target="TEY HOW" id="130" weight="1.0" />
+      <edge source="RUNE" target="TEY HOW" id="131" weight="2.0" />
+      <edge source="DOFINE" target="TC-14" id="132" weight="1.0" />
+      <edge source="DOFINE" target="TEY HOW" id="133" weight="1.0" />
+      <edge source="TC-14" target="PK-4" id="134" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
