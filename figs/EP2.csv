@@ -1,0 +1,102 @@
+Source,Target,Type,Id,Label,Weight
+ANAKIN,BERU,Undirected,0,,1
+ANAKIN,C-3PO,Undirected,1,,3
+ANAKIN,CAPTAIN TYPHO,Undirected,2,,2
+ANAKIN,CLIEGG,Undirected,3,,2
+ANAKIN,COUNT DOOKU,Undirected,4,,2
+ANAKIN,JAR JAR,Undirected,5,,3
+ANAKIN,JOBAL,Undirected,6,,1
+ANAKIN,MACE WINDU,Undirected,7,,1
+ANAKIN,NUTE GUNRAY,Undirected,8,,1
+ANAKIN,OBI-WAN,Undirected,9,,13
+ANAKIN,OWEN,Undirected,10,,3
+ANAKIN,PADME,Undirected,11,,16
+ANAKIN,POGGLE,Undirected,12,,1
+ANAKIN,R2-D2,Undirected,13,,7
+ANAKIN,RUWEE,Undirected,14,,3
+ANAKIN,SHMI,Undirected,15,,1
+ANAKIN,SIO BIBBLE,Undirected,16,,1
+ANAKIN,SOLA,Undirected,17,,1
+ANAKIN,SUN RIT,Undirected,18,,1
+ANAKIN,WATTO,Undirected,19,,1
+ANAKIN,YODA,Undirected,20,,1
+BERU,C-3PO,Undirected,21,,1
+BERU,CLIEGG,Undirected,22,,1
+BERU,OWEN,Undirected,23,,1
+BERU,PADME,Undirected,24,,1
+C-3PO,CLIEGG,Undirected,25,,1
+C-3PO,OWEN,Undirected,26,,2
+C-3PO,PADME,Undirected,27,,5
+C-3PO,R2-D2,Undirected,28,,3
+CAPTAIN TYPHO,JAR JAR,Undirected,29,,1
+CAPTAIN TYPHO,OBI-WAN,Undirected,30,,2
+CLIEGG,OWEN,Undirected,31,,2
+CLIEGG,PADME,Undirected,32,,2
+COUNT DOOKU,EMPEROR,Undirected,33,,1
+COUNT DOOKU,JANGO FETT,Undirected,34,,1
+COUNT DOOKU,MACE WINDU,Undirected,35,,2
+COUNT DOOKU,NUTE GUNRAY,Undirected,36,,1
+COUNT DOOKU,OBI-WAN,Undirected,37,,2
+COUNT DOOKU,PADME,Undirected,38,,3
+COUNT DOOKU,POGGLE,Undirected,39,,1
+COUNT DOOKU,SUN RIT,Undirected,40,,1
+COUNT DOOKU,YODA,Undirected,41,,2
+JAR JAR,BAIL ORGANA,Undirected,42,,1
+JAR JAR,EMPEROR,Undirected,43,,2
+JAR JAR,MACE WINDU,Undirected,44,,1
+JAR JAR,OBI-WAN,Undirected,45,,3
+JAR JAR,ORN FREE TAA,Undirected,46,,1
+JAR JAR,PADME,Undirected,47,,1
+JAR JAR,SENATOR ASK AAK,Undirected,48,,1
+JAR JAR,YODA,Undirected,49,,1
+JOBAL,PADME,Undirected,50,,1
+JOBAL,RUWEE,Undirected,51,,1
+JOBAL,SOLA,Undirected,52,,2
+MACE WINDU,BAIL ORGANA,Undirected,53,,2
+MACE WINDU,EMPEROR,Undirected,54,,2
+MACE WINDU,KI-ADI-MUNDI,Undirected,55,,1
+MACE WINDU,OBI-WAN,Undirected,56,,4
+MACE WINDU,PADME,Undirected,57,,2
+MACE WINDU,SENATOR ASK AAK,Undirected,58,,1
+MACE WINDU,YODA,Undirected,59,,8
+NUTE GUNRAY,OBI-WAN,Undirected,60,,1
+NUTE GUNRAY,PADME,Undirected,61,,1
+NUTE GUNRAY,POGGLE,Undirected,62,,2
+NUTE GUNRAY,SUN RIT,Undirected,63,,2
+OBI-WAN,BAIL ORGANA,Undirected,64,,1
+OBI-WAN,BOBA FETT,Undirected,65,,1
+OBI-WAN,EMPEROR,Undirected,66,,1
+OBI-WAN,JANGO FETT,Undirected,67,,1
+OBI-WAN,LAMA SU,Undirected,68,,6
+OBI-WAN,PADME,Undirected,69,,2
+OBI-WAN,PK-4,Undirected,70,,1
+OBI-WAN,POGGLE,Undirected,71,,1
+OBI-WAN,SENATOR ASK AAK,Undirected,72,,1
+OBI-WAN,SUN RIT,Undirected,73,,1
+OBI-WAN,TAUN WE,Undirected,74,,5
+OBI-WAN,YODA,Undirected,75,,5
+OWEN,PADME,Undirected,76,,4
+PADME,POGGLE,Undirected,77,,1
+PADME,R2-D2,Undirected,78,,7
+PADME,RUWEE,Undirected,79,,1
+PADME,SOLA,Undirected,80,,1
+PADME,SUN RIT,Undirected,81,,1
+PADME,YODA,Undirected,82,,1
+POGGLE,SUN RIT,Undirected,83,,2
+RUWEE,SOLA,Undirected,84,,1
+YODA,BAIL ORGANA,Undirected,85,,2
+YODA,EMPEROR,Undirected,86,,2
+YODA,KI-ADI-MUNDI,Undirected,87,,1
+YODA,SENATOR ASK AAK,Undirected,88,,1
+BAIL ORGANA,EMPEROR,Undirected,89,,2
+BAIL ORGANA,KI-ADI-MUNDI,Undirected,90,,1
+BAIL ORGANA,SENATOR ASK AAK,Undirected,91,,1
+EMPEROR,KI-ADI-MUNDI,Undirected,92,,1
+EMPEROR,ORN FREE TAA,Undirected,93,,2
+EMPEROR,SENATOR ASK AAK,Undirected,94,,2
+KI-ADI-MUNDI,PLO KOON,Undirected,95,,1
+SENATOR ASK AAK,ORN FREE TAA,Undirected,96,,1
+BOBA FETT,JANGO FETT,Undirected,97,,3
+BOBA FETT,TAUN WE,Undirected,98,,2
+JANGO FETT,TAUN WE,Undirected,99,,1
+TAUN WE,LAMA SU,Undirected,100,,2

@@ -1,0 +1,56 @@
+Source,Target,Type,Id,Label,Weight
+ADMIRAL ACKBAR,C-3PO,Undirected,0,,1
+ADMIRAL ACKBAR,HAN,Undirected,1,,1
+ADMIRAL ACKBAR,LANDO,Undirected,2,,5
+ADMIRAL ACKBAR,LEIA,Undirected,3,,1
+ADMIRAL ACKBAR,LUKE,Undirected,4,,1
+ADMIRAL ACKBAR,MON MOTHMA,Undirected,5,,1
+ADMIRAL ACKBAR,WEDGE,Undirected,6,,1
+C-3PO,BIB FORTUNA,Undirected,7,,2
+C-3PO,BOUSHH,Undirected,8,,2
+C-3PO,CHEWBACCA,Undirected,9,,13
+C-3PO,HAN,Undirected,10,,18
+C-3PO,JABBA,Undirected,11,,3
+C-3PO,LANDO,Undirected,12,,1
+C-3PO,LEIA,Undirected,13,,15
+C-3PO,LUKE,Undirected,14,,10
+C-3PO,MON MOTHMA,Undirected,15,,1
+C-3PO,R2-D2,Undirected,16,,14
+HAN,BOUSHH,Undirected,17,,1
+HAN,CHEWBACCA,Undirected,18,,20
+HAN,LANDO,Undirected,19,,5
+HAN,LEIA,Undirected,20,,18
+HAN,LUKE,Undirected,21,,13
+HAN,MON MOTHMA,Undirected,22,,1
+HAN,R2-D2,Undirected,23,,9
+LANDO,CHEWBACCA,Undirected,24,,6
+LANDO,LEIA,Undirected,25,,2
+LANDO,LUKE,Undirected,26,,4
+LANDO,MON MOTHMA,Undirected,27,,1
+LANDO,R2-D2,Undirected,28,,2
+LANDO,WEDGE,Undirected,29,,6
+LEIA,BOUSHH,Undirected,30,,1
+LEIA,CHEWBACCA,Undirected,31,,14
+LEIA,LUKE,Undirected,32,,8
+LEIA,MON MOTHMA,Undirected,33,,1
+LEIA,R2-D2,Undirected,34,,12
+LUKE,ANAKIN,Undirected,35,,1
+LUKE,BIB FORTUNA,Undirected,36,,1
+LUKE,CHEWBACCA,Undirected,37,,10
+LUKE,DARTH VADER,Undirected,38,,5
+LUKE,EMPEROR,Undirected,39,,3
+LUKE,JABBA,Undirected,40,,2
+LUKE,MON MOTHMA,Undirected,41,,1
+LUKE,OBI-WAN,Undirected,42,,1
+LUKE,R2-D2,Undirected,43,,8
+LUKE,YODA,Undirected,44,,1
+MON MOTHMA,CHEWBACCA,Undirected,45,,1
+MON MOTHMA,R2-D2,Undirected,46,,1
+ANAKIN,DARTH VADER,Undirected,47,,1
+DARTH VADER,EMPEROR,Undirected,48,,5
+DARTH VADER,JERJERROD,Undirected,49,,1
+DARTH VADER,PIETT,Undirected,50,,1
+BIB FORTUNA,JABBA,Undirected,51,,1
+JABBA,BOUSHH,Undirected,52,,1
+JABBA,R2-D2,Undirected,53,,2
+CHEWBACCA,R2-D2,Undirected,54,,8

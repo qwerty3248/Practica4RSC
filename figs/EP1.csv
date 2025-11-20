@@ -1,0 +1,136 @@
+Source,Target,Type,Id,Label,Weight
+ANAKIN,BOSS NASS,Undirected,0,,1
+ANAKIN,BRAVO THREE,Undirected,1,,1
+ANAKIN,BRAVO TWO,Undirected,2,,2
+ANAKIN,C-3PO,Undirected,3,,3
+ANAKIN,CAPTAIN PANAKA,Undirected,4,,2
+ANAKIN,GREEDO,Undirected,5,,1
+ANAKIN,JABBA,Undirected,6,,1
+ANAKIN,JAR JAR,Undirected,7,,8
+ANAKIN,JIRA,Undirected,8,,2
+ANAKIN,KI-ADI-MUNDI,Undirected,9,,2
+ANAKIN,KITSTER,Undirected,10,,3
+ANAKIN,MACE WINDU,Undirected,11,,3
+ANAKIN,OBI-WAN,Undirected,12,,5
+ANAKIN,PADME,Undirected,13,,16
+ANAKIN,QUI-GON,Undirected,14,,22
+ANAKIN,R2-D2,Undirected,15,,16
+ANAKIN,RABE,Undirected,16,,1
+ANAKIN,RIC OLIE,Undirected,17,,4
+ANAKIN,SEBULBA,Undirected,18,,2
+ANAKIN,SHMI,Undirected,19,,7
+ANAKIN,WALD,Undirected,20,,2
+ANAKIN,WATTO,Undirected,21,,4
+ANAKIN,YODA,Undirected,22,,3
+BOSS NASS,CAPTAIN PANAKA,Undirected,23,,1
+BOSS NASS,JAR JAR,Undirected,24,,2
+BOSS NASS,OBI-WAN,Undirected,25,,2
+BOSS NASS,PADME,Undirected,26,,2
+BOSS NASS,QUI-GON,Undirected,27,,2
+BRAVO THREE,BRAVO TWO,Undirected,28,,2
+BRAVO THREE,RIC OLIE,Undirected,29,,2
+BRAVO TWO,RIC OLIE,Undirected,30,,4
+C-3PO,KITSTER,Undirected,31,,1
+C-3PO,PADME,Undirected,32,,2
+C-3PO,QUI-GON,Undirected,33,,1
+C-3PO,R2-D2,Undirected,34,,2
+C-3PO,WATTO,Undirected,35,,1
+CAPTAIN PANAKA,EMPEROR,Undirected,36,,3
+CAPTAIN PANAKA,JAR JAR,Undirected,37,,7
+CAPTAIN PANAKA,OBI-WAN,Undirected,38,,7
+CAPTAIN PANAKA,PADME,Undirected,39,,7
+CAPTAIN PANAKA,QUI-GON,Undirected,40,,9
+CAPTAIN PANAKA,RIC OLIE,Undirected,41,,2
+CAPTAIN PANAKA,SIO BIBBLE,Undirected,42,,3
+GREEDO,QUI-GON,Undirected,43,,1
+GREEDO,WALD,Undirected,44,,1
+JABBA,FODE/BEED,Undirected,45,,1
+JABBA,JAR JAR,Undirected,46,,1
+JABBA,PADME,Undirected,47,,1
+JABBA,QUI-GON,Undirected,48,,1
+JABBA,SEBULBA,Undirected,49,,1
+JABBA,SHMI,Undirected,50,,1
+JAR JAR,EMPEROR,Undirected,51,,2
+JAR JAR,FODE/BEED,Undirected,52,,2
+JAR JAR,GENERAL CEEL,Undirected,53,,1
+JAR JAR,KITSTER,Undirected,54,,1
+JAR JAR,OBI-WAN,Undirected,55,,12
+JAR JAR,PADME,Undirected,56,,9
+JAR JAR,QUI-GON,Undirected,57,,22
+JAR JAR,RIC OLIE,Undirected,58,,1
+JAR JAR,SEBULBA,Undirected,59,,2
+JAR JAR,SHMI,Undirected,60,,3
+JAR JAR,SIO BIBBLE,Undirected,61,,1
+JAR JAR,TARPALS,Undirected,62,,2
+JAR JAR,VALORUM,Undirected,63,,1
+JAR JAR,WALD,Undirected,64,,1
+JIRA,PADME,Undirected,65,,1
+JIRA,QUI-GON,Undirected,66,,2
+KI-ADI-MUNDI,MACE WINDU,Undirected,67,,3
+KI-ADI-MUNDI,OBI-WAN,Undirected,68,,1
+KI-ADI-MUNDI,QUI-GON,Undirected,69,,2
+KI-ADI-MUNDI,RABE,Undirected,70,,1
+KI-ADI-MUNDI,YODA,Undirected,71,,3
+KITSTER,PADME,Undirected,72,,1
+KITSTER,QUI-GON,Undirected,73,,2
+KITSTER,R2-D2,Undirected,74,,2
+KITSTER,SHMI,Undirected,75,,1
+KITSTER,WALD,Undirected,76,,1
+KITSTER,WATTO,Undirected,77,,1
+MACE WINDU,OBI-WAN,Undirected,78,,2
+MACE WINDU,QUI-GON,Undirected,79,,2
+MACE WINDU,RABE,Undirected,80,,1
+MACE WINDU,YODA,Undirected,81,,4
+OBI-WAN,PADME,Undirected,82,,1
+OBI-WAN,QUI-GON,Undirected,83,,26
+OBI-WAN,RIC OLIE,Undirected,84,,3
+OBI-WAN,SHMI,Undirected,85,,1
+OBI-WAN,SIO BIBBLE,Undirected,86,,1
+OBI-WAN,TC-14,Undirected,87,,1
+OBI-WAN,YODA,Undirected,88,,3
+PADME,EMPEROR,Undirected,89,,1
+PADME,FODE/BEED,Undirected,90,,1
+PADME,NUTE GUNRAY,Undirected,91,,1
+PADME,QUI-GON,Undirected,92,,16
+PADME,R2-D2,Undirected,93,,11
+PADME,SEBULBA,Undirected,94,,2
+PADME,SHMI,Undirected,95,,5
+PADME,SIO BIBBLE,Undirected,96,,1
+PADME,WATTO,Undirected,97,,3
+QUI-GON,EMPEROR,Undirected,98,,1
+QUI-GON,NUTE GUNRAY,Undirected,99,,1
+QUI-GON,R2-D2,Undirected,100,,14
+QUI-GON,RABE,Undirected,101,,1
+QUI-GON,RIC OLIE,Undirected,102,,2
+QUI-GON,SEBULBA,Undirected,103,,2
+QUI-GON,SHMI,Undirected,104,,8
+QUI-GON,SIO BIBBLE,Undirected,105,,2
+QUI-GON,TC-14,Undirected,106,,1
+QUI-GON,VALORUM,Undirected,107,,1
+QUI-GON,WALD,Undirected,108,,2
+QUI-GON,WATTO,Undirected,109,,6
+QUI-GON,YODA,Undirected,110,,2
+R2-D2,WATTO,Undirected,111,,3
+RABE,YODA,Undirected,112,,1
+SEBULBA,SHMI,Undirected,113,,1
+BAIL ORGANA,EMPEROR,Undirected,114,,1
+BAIL ORGANA,VALORUM,Undirected,115,,1
+EMPEROR,DARTH MAUL,Undirected,116,,3
+EMPEROR,GENERAL CEEL,Undirected,117,,1
+EMPEROR,NUTE GUNRAY,Undirected,118,,5
+EMPEROR,RUNE,Undirected,119,,3
+EMPEROR,SIO BIBBLE,Undirected,120,,1
+EMPEROR,VALORUM,Undirected,121,,2
+SIO BIBBLE,NUTE GUNRAY,Undirected,122,,2
+DARTH MAUL,GENERAL CEEL,Undirected,123,,1
+DARTH MAUL,NUTE GUNRAY,Undirected,124,,3
+DARTH MAUL,RUNE,Undirected,125,,1
+GENERAL CEEL,NUTE GUNRAY,Undirected,126,,1
+NUTE GUNRAY,DOFINE,Undirected,127,,1
+NUTE GUNRAY,RUNE,Undirected,128,,8
+NUTE GUNRAY,TC-14,Undirected,129,,1
+NUTE GUNRAY,TEY HOW,Undirected,130,,1
+RUNE,TEY HOW,Undirected,131,,2
+DOFINE,TC-14,Undirected,132,,1
+DOFINE,TEY HOW,Undirected,133,,1
+TC-14,PK-4,Undirected,134,,1

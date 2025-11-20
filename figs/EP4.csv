@@ -1,0 +1,61 @@
+Source,Target,Type,Id,Label,Weight
+BERU,C-3PO,Undirected,0,,2
+BERU,LEIA,Undirected,1,,1
+BERU,LUKE,Undirected,2,,3
+BERU,OWEN,Undirected,3,,3
+BERU,R2-D2,Undirected,4,,1
+C-3PO,BIGGS,Undirected,5,,1
+C-3PO,CHEWBACCA,Undirected,6,,4
+C-3PO,HAN,Undirected,7,,6
+C-3PO,LEIA,Undirected,8,,6
+C-3PO,LUKE,Undirected,9,,18
+C-3PO,OBI-WAN,Undirected,10,,6
+C-3PO,OWEN,Undirected,11,,2
+C-3PO,R2-D2,Undirected,12,,17
+C-3PO,RED LEADER,Undirected,13,,1
+LEIA,BIGGS,Undirected,14,,1
+LEIA,CHEWBACCA,Undirected,15,,8
+LEIA,DARTH VADER,Undirected,16,,1
+LEIA,HAN,Undirected,17,,13
+LEIA,LUKE,Undirected,18,,17
+LEIA,MOTTI,Undirected,19,,1
+LEIA,OBI-WAN,Undirected,20,,1
+LEIA,R2-D2,Undirected,21,,5
+LEIA,RED LEADER,Undirected,22,,1
+LEIA,TARKIN,Undirected,23,,1
+LUKE,BIGGS,Undirected,24,,4
+LUKE,CAMIE,Undirected,25,,2
+LUKE,CHEWBACCA,Undirected,26,,14
+LUKE,DODONNA,Undirected,27,,1
+LUKE,GOLD LEADER,Undirected,28,,1
+LUKE,HAN,Undirected,29,,26
+LUKE,OBI-WAN,Undirected,30,,19
+LUKE,OWEN,Undirected,31,,3
+LUKE,R2-D2,Undirected,32,,14
+LUKE,RED LEADER,Undirected,33,,3
+LUKE,RED TEN,Undirected,34,,1
+LUKE,WEDGE,Undirected,35,,2
+OWEN,R2-D2,Undirected,36,,1
+R2-D2,BIGGS,Undirected,37,,1
+R2-D2,CHEWBACCA,Undirected,38,,3
+R2-D2,HAN,Undirected,39,,6
+R2-D2,OBI-WAN,Undirected,40,,4
+BIGGS,CAMIE,Undirected,41,,2
+BIGGS,GOLD LEADER,Undirected,42,,1
+BIGGS,RED LEADER,Undirected,43,,3
+BIGGS,WEDGE,Undirected,44,,2
+GOLD LEADER,DODONNA,Undirected,45,,1
+GOLD LEADER,RED LEADER,Undirected,46,,1
+GOLD LEADER,WEDGE,Undirected,47,,1
+RED LEADER,RED TEN,Undirected,48,,1
+RED LEADER,WEDGE,Undirected,49,,3
+WEDGE,DODONNA,Undirected,50,,1
+CHEWBACCA,HAN,Undirected,51,,19
+CHEWBACCA,OBI-WAN,Undirected,52,,4
+HAN,GREEDO,Undirected,53,,1
+HAN,JABBA,Undirected,54,,1
+HAN,OBI-WAN,Undirected,55,,9
+OBI-WAN,DARTH VADER,Undirected,56,,1
+DARTH VADER,MOTTI,Undirected,57,,1
+DARTH VADER,TARKIN,Undirected,58,,7
+MOTTI,TARKIN,Undirected,59,,2

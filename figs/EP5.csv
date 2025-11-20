@@ -1,0 +1,56 @@
+Source,Target,Type,Id,Label,Weight
+BOBA FETT,C-3PO,Undirected,0,,1
+BOBA FETT,CHEWBACCA,Undirected,1,,1
+BOBA FETT,DARTH VADER,Undirected,2,,3
+BOBA FETT,HAN,Undirected,3,,1
+BOBA FETT,LANDO,Undirected,4,,2
+BOBA FETT,LEIA,Undirected,5,,1
+BOBA FETT,PIETT,Undirected,6,,1
+C-3PO,CHEWBACCA,Undirected,7,,21
+C-3PO,DARTH VADER,Undirected,8,,1
+C-3PO,DERLIN,Undirected,9,,1
+C-3PO,HAN,Undirected,10,,27
+C-3PO,LANDO,Undirected,11,,7
+C-3PO,LEIA,Undirected,12,,23
+C-3PO,LUKE,Undirected,13,,1
+C-3PO,R2-D2,Undirected,14,,10
+C-3PO,RIEEKAN,Undirected,15,,1
+CHEWBACCA,DARTH VADER,Undirected,16,,1
+CHEWBACCA,HAN,Undirected,17,,19
+CHEWBACCA,LANDO,Undirected,18,,9
+CHEWBACCA,LEIA,Undirected,19,,19
+CHEWBACCA,LUKE,Undirected,20,,5
+CHEWBACCA,R2-D2,Undirected,21,,5
+CHEWBACCA,RIEEKAN,Undirected,22,,1
+DARTH VADER,EMPEROR,Undirected,23,,1
+DARTH VADER,HAN,Undirected,24,,2
+DARTH VADER,LANDO,Undirected,25,,4
+DARTH VADER,LEIA,Undirected,26,,1
+DARTH VADER,LUKE,Undirected,27,,2
+DARTH VADER,NEEDA,Undirected,28,,1
+DARTH VADER,OZZEL,Undirected,29,,2
+DARTH VADER,PIETT,Undirected,30,,7
+HAN,LANDO,Undirected,31,,7
+HAN,LEIA,Undirected,32,,33
+HAN,LUKE,Undirected,33,,4
+HAN,OBI-WAN,Undirected,34,,1
+HAN,R2-D2,Undirected,35,,4
+HAN,RIEEKAN,Undirected,36,,3
+HAN,ZEV,Undirected,37,,1
+LANDO,LEIA,Undirected,38,,10
+LANDO,LUKE,Undirected,39,,2
+LANDO,R2-D2,Undirected,40,,1
+LEIA,DERLIN,Undirected,41,,1
+LEIA,LUKE,Undirected,42,,1
+LEIA,R2-D2,Undirected,43,,5
+LEIA,RIEEKAN,Undirected,44,,4
+PIETT,NEEDA,Undirected,45,,1
+PIETT,OZZEL,Undirected,46,,2
+LUKE,DACK,Undirected,47,,3
+LUKE,OBI-WAN,Undirected,48,,2
+LUKE,R2-D2,Undirected,49,,7
+LUKE,WEDGE,Undirected,50,,2
+LUKE,YODA,Undirected,51,,5
+LUKE,ZEV,Undirected,52,,1
+OBI-WAN,YODA,Undirected,53,,1
+JANSON,WEDGE,Undirected,54,,2
